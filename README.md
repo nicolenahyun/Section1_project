@@ -1,4 +1,4 @@
-# Establishment of Game Release Strategy Direction
+# Development of Game Release Strategy
 - 프로젝트 기간: 2021.07.29 - 2021.08.03
 ---
 ## 프로젝트 목표
